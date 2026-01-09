@@ -7,6 +7,7 @@ public class Principal {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+
 		//VARIABLES
 
 		double num1=0, num2=0;
@@ -73,11 +74,5 @@ public class Principal {
 
 		
 		
-		
-		
-		
-		
-		
 	}
-
 }
