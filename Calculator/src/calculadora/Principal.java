@@ -10,6 +10,7 @@ public class Principal {
 		//VARIABLES
 		double num1, num2;
 		double suma;
+		double mult;
 		int opcion;
 		
 		System.out.println("Bienvenido a esta calculadora pro de ultima genereshion, disfruta rey ;). ");
@@ -40,7 +41,16 @@ public class Principal {
 					
 					
 				case 3: 
+					System.out.println("Usted escogio multiplicar :) ");
 					
+					System.out.println("Diga el primer numero");
+					num1=Leer.datoDouble();
+					
+					System.out.println("Diga el segundo numero");
+					num2=Leer.datoDouble();
+					mult=num1+num2; 
+					System.out.println("La sol es: "+mult);
+					break;
 				case 0: 
 			}
 			
