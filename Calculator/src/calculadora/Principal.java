@@ -7,7 +7,7 @@ public class Principal {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-<<<<<<< HEAD
+
 		//VARIABLES
 		double num1=0, num2=0;
 		double suma, resta;
@@ -62,14 +62,6 @@ public class Principal {
 		
 
 		
-		
-		
-		
-		
-		
-=======
-		test
->>>>>>> feature-resta
 		
 	}
 }
